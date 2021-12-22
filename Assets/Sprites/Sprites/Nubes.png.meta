@@ -1,7 +1,16 @@
 fileFormatVersion: 2
-guid: eff96e60339fcbe48b4940bd9e006019
+guid: 5b3b6cc6e813baf408bbf40ca1df85b0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1952231738249391892
+    second: Nubes_0
+  - first:
+      213: 8089803103448998486
+    second: Nubes_1
+  - first:
+      213: -6395838251325874162
+    second: Nubes_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -101,7 +110,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Nubes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d662d39748e4e0800000000000000
+      internalID: -1952231738249391892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nubes_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6522eeb9f01c44070800000000000000
+      internalID: 8089803103448998486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nubes_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00addc3ffa6d37a0800000000000000
+      internalID: -6395838251325874162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

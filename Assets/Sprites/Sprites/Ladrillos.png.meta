@@ -11,6 +11,12 @@ TextureImporter:
   - first:
       213: -5024462216136768697
     second: Ladrillos_2
+  - first:
+      213: 3034615638488021777
+    second: Ladrillos_3
+  - first:
+      213: -6104995135466407060
+    second: Ladrillos_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -150,7 +156,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -158,6 +164,48 @@ TextureImporter:
       bones: []
       spriteID: 743cbc33c36854ab0800000000000000
       internalID: -5024462216136768697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladrillos_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b7ce958de1d1a20800000000000000
+      internalID: 3034615638488021777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladrillos_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b790b1543b64ba0800000000000000
+      internalID: -6104995135466407060
       vertices: []
       indices: 
       edges: []
